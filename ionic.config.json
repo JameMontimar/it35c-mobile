@@ -1,5 +1,7 @@
 {
-  "name": "ionic-app-base",
-  "integrations": {},
+  "name": "it35c-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react-vite"
 }
